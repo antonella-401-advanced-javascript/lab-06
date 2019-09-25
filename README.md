@@ -45,7 +45,14 @@ method | route | model method
 * Endpoint: `/`
     * Returns a boolean
 * Endpoint: `/docs`
-    * Returns JSDoc documentation pages
+    * Returns Swagger documentation pages
 
 #### Whiteboard
 ![Whiteboard Diagram](whiteboard.jpg)
+![Postman Screenshot](one.png)
+![Postman Screenshot](two.png)
+![Postman Screenshot](three.png)
+![Postman Screenshot](four.png)
+![Postman Screenshot](five.png)
+![Postman Screenshot](six.png)
+![Postman Screenshot](seven.png)
