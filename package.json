@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "json-server ./data/db.json --routes routes.json --id _id",
-    "lint": "eslint '**/*.js'"
+    "lint": "eslint '**/*.js'",
+    "test": "jest --verbose --coverage"
   },
   "repository": {
     "type": "git",
