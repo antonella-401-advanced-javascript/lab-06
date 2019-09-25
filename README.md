@@ -10,7 +10,7 @@
 * [travis](https://travis-ci.com/antonella-401-advanced-javascript/lab-06)
 
 ### Documentation
-* [docs](/docs/) (Server assignments)
+* [docs](/docs/) (https://app.swaggerhub.com/apis-docs/27Nyappy/lab-06/0.1)
 
 ### Modules
 ##### Exported Values and Methods

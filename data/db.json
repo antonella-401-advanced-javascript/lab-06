@@ -27,6 +27,13 @@
       "name": "tiramisu",
       "display_name": "Tiramisu",
       "description": "coffee-flavoured Italian dessert"
+    },
+    {
+      "_id": 3,
+      "category": 2,
+      "name": "beef wellington",
+      "display_name": "Beef Wellington",
+      "description": "a dish of beef, typically coated in pâté de foie gras, wrapped in puff pastry, and baked."
     }
   ]
 }
