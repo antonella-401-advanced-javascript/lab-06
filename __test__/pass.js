@@ -4,4 +4,4 @@ const testing = (num, num2) => {
 
 module.exports = {
   testing
-}
+};
