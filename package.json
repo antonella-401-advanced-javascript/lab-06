@@ -1,0 +1,27 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server ./data/db.json --routes routes.json --id _id",
+    "lint": "eslint \"**/*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanandrewson-401-advanced-javascript/simple-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanandrewson-401-advanced-javascript/simple-api/issues"
+  },
+  "homepage": "https://github.com/evanandrewson-401-advanced-javascript/simple-api#readme",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.4.0"
+  }
+}
