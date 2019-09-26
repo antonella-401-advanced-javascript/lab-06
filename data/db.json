@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "desserts",
+      "display_name": "Desserts",
+      "description": "a sweet treat to eat"
+    },
+    {
+      "_id": 2,
+      "name": "main course",
+      "display_name": "Main Course",
+      "description": "the heaviest, heartiest, and most complex or substantial dish in a meal."
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": 1,
+      "name": "panna cotta",
+      "display_name": "Panna Cotta",
+      "description": " Italian dessert of sweetened cream thickened with gelatin and molded"
+    },
+    {
+      "_id": 2,
+      "category": 1,
+      "name": "tiramisu",
+      "display_name": "Tiramisu",
+      "description": "coffee-flavoured Italian dessert"
+    },
+    {
+      "_id": 3,
+      "category": 2,
+      "name": "beef wellington",
+      "display_name": "Beef Wellington",
+      "description": "a dish of beef, typically coated in pâté de foie gras, wrapped in puff pastry, and baked."
+    }
+  ]
+}
